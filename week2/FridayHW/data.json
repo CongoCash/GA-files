@@ -1,0 +1,1488 @@
+{
+  "albums": {
+    "href": "https://api.spotify.com/v1/search?query=adele&type=album&offset=0&limit=20",
+    "items": [
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+            "id": "4dpARuHxo51G3z768sgnrY",
+            "name": "Adele",
+            "type": "artist",
+            "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "GT",
+          "HN",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SV",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd"
+        },
+        "href": "https://api.spotify.com/v1/albums/0K4pIOOsfJ9lK8OjrZfXzd",
+        "id": "0K4pIOOsfJ9lK8OjrZfXzd",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/602102500b9cebde7559a5f9c16daaaef2846440",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/1ee2055a078d87a5a55366189409b9e1d820972a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/7afb855c28a2c8ad5ed9d51460736f4022e60bbf",
+            "width": 64
+          }
+        ],
+        "name": "25",
+        "type": "album",
+        "uri": "spotify:album:0K4pIOOsfJ9lK8OjrZfXzd"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+            "id": "4dpARuHxo51G3z768sgnrY",
+            "name": "Adele",
+            "type": "artist",
+            "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "GT",
+          "HN",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SV",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
+        },
+        "href": "https://api.spotify.com/v1/albums/1azUkThwd2HfUDdeNeT147",
+        "id": "1azUkThwd2HfUDdeNeT147",
+        "images": [
+          {
+            "height": 636,
+            "url": "https://i.scdn.co/image/4dd5a511e378838ef564cc343304019b8f430bcd",
+            "width": 640
+          },
+          {
+            "height": 298,
+            "url": "https://i.scdn.co/image/98e98371cf400f65633822d61bfe66370fa6df16",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/7ace39dafcac6a253a026ffa473e0f14389fa1d8",
+            "width": 64
+          }
+        ],
+        "name": "21",
+        "type": "album",
+        "uri": "spotify:album:1azUkThwd2HfUDdeNeT147"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+            "id": "4dpARuHxo51G3z768sgnrY",
+            "name": "Adele",
+            "type": "artist",
+            "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1"
+        },
+        "href": "https://api.spotify.com/v1/albums/6Pb3K1oPXdhsqFXtzKe3Z1",
+        "id": "6Pb3K1oPXdhsqFXtzKe3Z1",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/b09c0fc17bd94b008342083d7b5046c39a38b69b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/9fb3d324f549fd029a3ba5f317c845658ec69089",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/def8684f43c69e5f3e31722beb536636d9c9079f",
+            "width": 64
+          }
+        ],
+        "name": "19",
+        "type": "album",
+        "uri": "spotify:album:6Pb3K1oPXdhsqFXtzKe3Z1"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+            "id": "4dpARuHxo51G3z768sgnrY",
+            "name": "Adele",
+            "type": "artist",
+            "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "GT",
+          "HN",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SV",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5VN0zLpsF5QD62XYuvXOio"
+        },
+        "href": "https://api.spotify.com/v1/albums/5VN0zLpsF5QD62XYuvXOio",
+        "id": "5VN0zLpsF5QD62XYuvXOio",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/0c748d2ea3099ad49c2b76291c5796dd370ee314",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/dc6d2ac0673dd079cf02a171052fac3e0688ee2b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/0fa98c983c6c32c09a853167b7d74812bab702d4",
+            "width": 64
+          }
+        ],
+        "name": "19",
+        "type": "album",
+        "uri": "spotify:album:5VN0zLpsF5QD62XYuvXOio"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+            "id": "4dpARuHxo51G3z768sgnrY",
+            "name": "Adele",
+            "type": "artist",
+            "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "GT",
+          "HN",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SV",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1Eo1pg2D4beFgf3HFTJTMc"
+        },
+        "href": "https://api.spotify.com/v1/albums/1Eo1pg2D4beFgf3HFTJTMc",
+        "id": "1Eo1pg2D4beFgf3HFTJTMc",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/797009754c30847254b48de483f256258d90df7f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/f71517e8919892273de8d8677e42cdcf1b976aa7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/220fe5804f244f41aa216c4e3de17eafbf552341",
+            "width": 64
+          }
+        ],
+        "name": "Hello",
+        "type": "album",
+        "uri": "spotify:album:1Eo1pg2D4beFgf3HFTJTMc"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+            "id": "4dpARuHxo51G3z768sgnrY",
+            "name": "Adele",
+            "type": "artist",
+            "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "GT",
+          "HN",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SV",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7xX2GJWXXgIwamzN2vxXy0"
+        },
+        "href": "https://api.spotify.com/v1/albums/7xX2GJWXXgIwamzN2vxXy0",
+        "id": "7xX2GJWXXgIwamzN2vxXy0",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/c7b15589fbbdc7ce09eb85cfe034f7c1c177d248",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/9d4368df2ff725ed522f973674db726b77969c49",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/8cab9bde4b75c1ae07c6114b751522b5bdf8706f",
+            "width": 64
+          }
+        ],
+        "name": "Send My Love (To Your New Lover)",
+        "type": "album",
+        "uri": "spotify:album:7xX2GJWXXgIwamzN2vxXy0"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+            "id": "4dpARuHxo51G3z768sgnrY",
+            "name": "Adele",
+            "type": "artist",
+            "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "GT",
+          "HN",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SV",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
+        },
+        "href": "https://api.spotify.com/v1/albums/6TwN6Lq9glwnG8kNp6chHY",
+        "id": "6TwN6Lq9glwnG8kNp6chHY",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/fa4b5df1d6897d2db1fe8e7d508ae9a30d667b27",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/34460896cb7e9380575d492797915cdf6cc221e8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/9c99f0c2ae72aa77fce0952cf17bdb38e3c18be7",
+            "width": 64
+          }
+        ],
+        "name": "Skyfall",
+        "type": "album",
+        "uri": "spotify:album:6TwN6Lq9glwnG8kNp6chHY"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+            "id": "4dpARuHxo51G3z768sgnrY",
+            "name": "Adele",
+            "type": "artist",
+            "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "GT",
+          "HN",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SV",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/70zIL23Ro6CSxuFYL3dKn0"
+        },
+        "href": "https://api.spotify.com/v1/albums/70zIL23Ro6CSxuFYL3dKn0",
+        "id": "70zIL23Ro6CSxuFYL3dKn0",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/30cde329348e471fb618fd25d58aa8669026c36c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/90c3e7a2685a796ecb81c661f592f46ee5e9c4e5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/596574c3a5b499a37cd6157864f6d6a95348161b",
+            "width": 64
+          }
+        ],
+        "name": "When We Were Young",
+        "type": "album",
+        "uri": "spotify:album:70zIL23Ro6CSxuFYL3dKn0"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+            "id": "4dpARuHxo51G3z768sgnrY",
+            "name": "Adele",
+            "type": "artist",
+            "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6cw6QU9pF7FyQtSyJjzMua"
+        },
+        "href": "https://api.spotify.com/v1/albums/6cw6QU9pF7FyQtSyJjzMua",
+        "id": "6cw6QU9pF7FyQtSyJjzMua",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/4555322beb343a477c6db69e81e562f378fc0fe8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ac9b7b83e3117eadeeb51cb3138b956d8c34fbdb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/5c94628d941cc2589f6b0a3b92ec0d3f41c7f7e3",
+            "width": 64
+          }
+        ],
+        "name": "Rolling In The Deep",
+        "type": "album",
+        "uri": "spotify:album:6cw6QU9pF7FyQtSyJjzMua"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+            "id": "4dpARuHxo51G3z768sgnrY",
+            "name": "Adele",
+            "type": "artist",
+            "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "GT",
+          "HN",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SV",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0Igx9XZ7GNbP5AL7fzVLkE"
+        },
+        "href": "https://api.spotify.com/v1/albums/0Igx9XZ7GNbP5AL7fzVLkE",
+        "id": "0Igx9XZ7GNbP5AL7fzVLkE",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/0f70681e2a81ac9409c70170494e34b7767b3fa1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/d9811a9a855abaecf6f20ad52df8b75448a7a368",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/1fe674b7b095a3dfaf31e0883adfae2f4571f5d5",
+            "width": 64
+          }
+        ],
+        "name": "Water Under the Bridge",
+        "type": "album",
+        "uri": "spotify:album:0Igx9XZ7GNbP5AL7fzVLkE"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+            },
+            "href": "https://api.spotify.com/v1/artists/5bHjVR4F2Tfq4Ha6x7K6wU",
+            "id": "5bHjVR4F2Tfq4Ha6x7K6wU",
+            "name": "Rockabye Baby!",
+            "type": "artist",
+            "uri": "spotify:artist:5bHjVR4F2Tfq4Ha6x7K6wU"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1QKRhduQ3uuv5sXxcQ0j0K"
+        },
+        "href": "https://api.spotify.com/v1/albums/1QKRhduQ3uuv5sXxcQ0j0K",
+        "id": "1QKRhduQ3uuv5sXxcQ0j0K",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/d61971858c97c7d3d3e8f1e8af82576c17870929",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/485d33f1822ee7765b55e2d4cc4c1f5522652a71",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/1ae4aac411af310d2d5db886412f45899d4f96b6",
+            "width": 64
+          }
+        ],
+        "name": "Lullaby Renditions of Adele",
+        "type": "album",
+        "uri": "spotify:album:1QKRhduQ3uuv5sXxcQ0j0K"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+            "id": "4dpARuHxo51G3z768sgnrY",
+            "name": "Adele",
+            "type": "artist",
+            "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3fVy1p33U37smtO7kXoVeL"
+        },
+        "href": "https://api.spotify.com/v1/albums/3fVy1p33U37smtO7kXoVeL",
+        "id": "3fVy1p33U37smtO7kXoVeL",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/3ca9ee186e59b0c1039ca5a0c08e9c777dce50f3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/620251ac5aa22c37312a838c4446f86210e91a08",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/66ee32254beb09ea471c11f8381103d9d7581fa7",
+            "width": 64
+          }
+        ],
+        "name": "Hometown Glory",
+        "type": "album",
+        "uri": "spotify:album:3fVy1p33U37smtO7kXoVeL"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+            },
+            "href": "https://api.spotify.com/v1/artists/6C1ohJrd5VydigQtaGy5Wa",
+            "id": "6C1ohJrd5VydigQtaGy5Wa",
+            "name": "Joyner Lucas",
+            "type": "artist",
+            "uri": "spotify:artist:6C1ohJrd5VydigQtaGy5Wa"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/50sWNafYYaGg9LbGRPvTUy"
+        },
+        "href": "https://api.spotify.com/v1/albums/50sWNafYYaGg9LbGRPvTUy",
+        "id": "50sWNafYYaGg9LbGRPvTUy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/fcd210c6659ce7c32bee79ff531d38f1d2780f07",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/bc1caa2b716236c344ed75efa298b39c8dcbd050",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/041b2c769e75423381ac4464f9bb277142841fde",
+            "width": 64
+          }
+        ],
+        "name": "Say Hello to Adele",
+        "type": "album",
+        "uri": "spotify:album:50sWNafYYaGg9LbGRPvTUy"
+      },
+      {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+            "id": "4dpARuHxo51G3z768sgnrY",
+            "name": "Adele",
+            "type": "artist",
+            "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5uWfGWffkwkQJLvr35d3wd"
+        },
+        "href": "https://api.spotify.com/v1/albums/5uWfGWffkwkQJLvr35d3wd",
+        "id": "5uWfGWffkwkQJLvr35d3wd",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/529bc66bed1306c96f9b106db3fb68a1ca9be40f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/09729c1f9d0e9f9f14b499b1a1b406f1a93528eb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/6e5bc31ca36b668db42b62d9bcda2dae8ac6347a",
+            "width": 64
+          }
+        ],
+        "name": "Cold Shoulder",
+        "type": "album",
+        "uri": "spotify:album:5uWfGWffkwkQJLvr35d3wd"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0pNIifC8tolZOMkQi08w7L"
+            },
+            "href": "https://api.spotify.com/v1/artists/0pNIifC8tolZOMkQi08w7L",
+            "id": "0pNIifC8tolZOMkQi08w7L",
+            "name": "Adele Bloemendaal",
+            "type": "artist",
+            "uri": "spotify:artist:0pNIifC8tolZOMkQi08w7L"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/54gDjzomxMezOBGWSo1Q9C"
+        },
+        "href": "https://api.spotify.com/v1/albums/54gDjzomxMezOBGWSo1Q9C",
+        "id": "54gDjzomxMezOBGWSo1Q9C",
+        "images": [
+          {
+            "height": 600,
+            "url": "https://i.scdn.co/image/80e208184670ddbb604eacba0bf854d136088f0d",
+            "width": 600
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/f49897e1ceaef66c1d2a8e168b6d0be0f47e35ef",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/fb3aba3c255df33bcfd7148d41693cabb340af8c",
+            "width": 64
+          }
+        ],
+        "name": "Adèle",
+        "type": "album",
+        "uri": "spotify:album:54gDjzomxMezOBGWSo1Q9C"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1n3j237TSbMdioOMfuwUwi"
+            },
+            "href": "https://api.spotify.com/v1/artists/1n3j237TSbMdioOMfuwUwi",
+            "id": "1n3j237TSbMdioOMfuwUwi",
+            "name": "Adele Vivari",
+            "type": "artist",
+            "uri": "spotify:artist:1n3j237TSbMdioOMfuwUwi"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/795QJgHeSrOv30UmfIjjnP"
+        },
+        "href": "https://api.spotify.com/v1/albums/795QJgHeSrOv30UmfIjjnP",
+        "id": "795QJgHeSrOv30UmfIjjnP",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/5da2dee7c4d731637cb3186f79c738e1d614de22",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/52d6fb495aaf414e0a8d58450502545c962ae7be",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/b54314aba4bd5e13c717968f9174e35a528cae7e",
+            "width": 64
+          }
+        ],
+        "name": "Adele Asia",
+        "type": "album",
+        "uri": "spotify:album:795QJgHeSrOv30UmfIjjnP"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1n3j237TSbMdioOMfuwUwi"
+            },
+            "href": "https://api.spotify.com/v1/artists/1n3j237TSbMdioOMfuwUwi",
+            "id": "1n3j237TSbMdioOMfuwUwi",
+            "name": "Adele Vivari",
+            "type": "artist",
+            "uri": "spotify:artist:1n3j237TSbMdioOMfuwUwi"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/644yB7CHLhn4UwLUQ3I8p4"
+        },
+        "href": "https://api.spotify.com/v1/albums/644yB7CHLhn4UwLUQ3I8p4",
+        "id": "644yB7CHLhn4UwLUQ3I8p4",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/7129a43e53ba6146ab9f5b5362209656f671a75a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/94e2a5d180d15fcc39b79a21f8594283c8257ee3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/f76c9188dd059ba48cb941ab67dc89523e881f7f",
+            "width": 64
+          }
+        ],
+        "name": "Adele Sky",
+        "type": "album",
+        "uri": "spotify:album:644yB7CHLhn4UwLUQ3I8p4"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1n3j237TSbMdioOMfuwUwi"
+            },
+            "href": "https://api.spotify.com/v1/artists/1n3j237TSbMdioOMfuwUwi",
+            "id": "1n3j237TSbMdioOMfuwUwi",
+            "name": "Adele Vivari",
+            "type": "artist",
+            "uri": "spotify:artist:1n3j237TSbMdioOMfuwUwi"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3iujJcOrbsk6QGCFz5JM93"
+        },
+        "href": "https://api.spotify.com/v1/albums/3iujJcOrbsk6QGCFz5JM93",
+        "id": "3iujJcOrbsk6QGCFz5JM93",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/4e3491d94d0240a459c68343ae2c32483332b807",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/d21900ef6a4ae79838abb4e86d0b1ceeb0434ccc",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/748df2293431694e75e527869b80240f434f26bd",
+            "width": 64
+          }
+        ],
+        "name": "Adele One",
+        "type": "album",
+        "uri": "spotify:album:3iujJcOrbsk6QGCFz5JM93"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2f2bk22BcBxqqGK1F44Mo2"
+            },
+            "href": "https://api.spotify.com/v1/artists/2f2bk22BcBxqqGK1F44Mo2",
+            "id": "2f2bk22BcBxqqGK1F44Mo2",
+            "name": "Adèle Belmont",
+            "type": "artist",
+            "uri": "spotify:artist:2f2bk22BcBxqqGK1F44Mo2"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0haPrNLQPrNL8EAdWzfwzx"
+        },
+        "href": "https://api.spotify.com/v1/albums/0haPrNLQPrNL8EAdWzfwzx",
+        "id": "0haPrNLQPrNL8EAdWzfwzx",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/17f30a339a17364c36134e8efd47c72a62e91595",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/9983840cd084623adfd967afc6afed7cf8741d50",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/b09f54d5ed55c525cf8bd02986a28b2b96cadd85",
+            "width": 64
+          }
+        ],
+        "name": "Adèle Belmont Quartet",
+        "type": "album",
+        "uri": "spotify:album:0haPrNLQPrNL8EAdWzfwzx"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4I9U3kx6vlV6rImM6w8QVO"
+            },
+            "href": "https://api.spotify.com/v1/artists/4I9U3kx6vlV6rImM6w8QVO",
+            "id": "4I9U3kx6vlV6rImM6w8QVO",
+            "name": "Adele Kern",
+            "type": "artist",
+            "uri": "spotify:artist:4I9U3kx6vlV6rImM6w8QVO"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3gCohQ3gNqTTDqjL2RZ0JW"
+        },
+        "href": "https://api.spotify.com/v1/albums/3gCohQ3gNqTTDqjL2RZ0JW",
+        "id": "3gCohQ3gNqTTDqjL2RZ0JW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/5ce3fc0a0e5a18cbc32113810599fc126ba36249",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ef5f23d0bf1b2ee494f5cde4b4f2950640f178b7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/0e1a483537e565a7097380281ef494611d1c7997",
+            "width": 64
+          }
+        ],
+        "name": "Lebendige Vergangenheit - Adele Kern",
+        "type": "album",
+        "uri": "spotify:album:3gCohQ3gNqTTDqjL2RZ0JW"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/search?query=adele&type=album&offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 805
+  }
+}

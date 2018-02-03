@@ -1,0 +1,14 @@
+<section>
+  <h2>Search For A Star Wars Character</h2>
+  <input [(ngModel)]="name" type="text" placeholder="Character Name"
+         (keyup)="findCharacter(name)" />
+</section>
+
+<section *ngIf="results">
+  <h2>Results</h2>
+  <ul>
+    <li *ngFor="let character of results | async">
+      <h3>{{character.name}}</h3>
+    </li>
+  </ul>
+</section>
